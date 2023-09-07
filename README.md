@@ -6,8 +6,8 @@
   - People facing challenges with their projects.
     
 # Here's an overview of the project's version numbers:
-  - Laravel: 10
-  - Tailwind: 2.0
+  - Laravel: 10.2.6
+  - Tailwind: 3.3.3
 
 # In this course, we will:
   - Develop a basic homepage.
